@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe website from the Odin Project
+Basic recipe app from the Odin Project. Beginner HTML skills exercised and honed.
