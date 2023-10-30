@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color: tan;
+    color: white;
+}
+
+a {
+    color: white;
+    font-size: 1rem;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 1rem;
+}
+
+.home-container,
+.meal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    width: 80%;
+    padding: 4rem 0rem;
+}
+
+.home-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
